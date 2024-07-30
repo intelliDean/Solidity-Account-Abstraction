@@ -36,7 +36,7 @@ This contract is responsible for deploying new instances of the `SimpleAccount` 
 
 ## Authors
 
-EKARIKA NSEMEKE
+
 
 
 ## License
